@@ -31,11 +31,11 @@ public class Reto2 {
 					}
 			        
 			        else if (opcion == 3) {
-						
+			        	Funciones2.Temperatura(sc);
 					}
 			        
 			        else if (opcion == 4) {
-						
+						Funciones2.Volumen(sc);
 					}
 			        
 			        else if (opcion != 1 || opcion != 2 || opcion != 3 || opcion != 4 || opcion != 5) {

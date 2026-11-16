@@ -30,7 +30,7 @@ public class Funciones1 {
 			}
 
 			else if (opcion == 3) {
-				System.exit(0);
+				break;
 			}
 			
 			else {
@@ -66,7 +66,7 @@ public class Funciones1 {
 			}
 
 			else if (opcion == 3) {
-				System.exit(0);
+				break;
 			}
 			
 			else {
