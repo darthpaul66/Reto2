@@ -46,7 +46,7 @@ public static void Volumen(Scanner sc) {
 		String kyoko = sc.nextLine();
 		int n1 = Integer.parseInt(kyoko);
 		
-		System.out.println("Seleciona la onversión de longitud: ");
+		System.out.println("Seleciona la conversión de longitud: ");
 		System.out.println("1. Litros a galones");
 		System.out.println("2. Galones a litros");
 		System.out.println("3. Salir");
